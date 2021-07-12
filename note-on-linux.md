@@ -11,4 +11,27 @@ Oh easily. You can see all of the tracked distributions released over time [here
 
 What you will also notice looking at the timeline is that most distributions come from forks of other distributions. At the end of the day they really come down to the package manager, documentation, stable vs rolling release, and how "user friendly" of a distribution it may be. In user friendliness I might include things like how approachable the community and installed software are. Below you'll find some information on distributions regarding these notes that may be more accessible and helpful during your learning.
 
+## Distribution suggestions
+
+### Debian / Ubuntu based distributions
+
+There is a particular reason that I pull out these distributions as the main focus as they are the distributions I have focused my knowledge on the most as someone learning more about the Linux environment. Ubuntu is a derivative of Debian, which has been around for some time and many modern day versions of Linux are forked from it and Ubuntu. The suggestions below are actually all forks of Ubuntu to my knowledge.
+
+This gives a major benefit because it means that they share many systems and therefore share documentation. If you have an issue about the apt package manager, search for it in Ubuntu's documentation and forums. That will at least get you started. I also chose the ones below because they help make certain use cases on new users a little friendlier.
+
+#### Ubuntu/Xubuntu/Kubuntu/lubuntu/
+#### Pop_OS
+#### Zorin OS
+#### Elementary OS
+#### Linux Mint
+#### Linux Lite
+
+### Fedora
+
+### Rolling Release
+
+### AUR Repository
+
+#### Manjaro
+
 
