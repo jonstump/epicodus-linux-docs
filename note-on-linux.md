@@ -17,21 +17,48 @@ What you will also notice looking at the timeline is that most distributions com
 
 There is a particular reason that I pull out these distributions as the main focus as they are the distributions I have focused my knowledge on the most as someone learning more about the Linux environment. Ubuntu is a derivative of Debian, which has been around for some time and many modern day versions of Linux are forked from it and Ubuntu. The suggestions below are actually all forks of Ubuntu to my knowledge.
 
-This gives a major benefit because it means that they share many systems and therefore share documentation. If you have an issue about the apt package manager, search for it in Ubuntu's documentation and forums. That will at least get you started. I also chose the ones below because they help make certain use cases on new users a little friendlier.
+This gives a major benefit because it means that they share many systems and therefore share documentation. If you have an issue about the apt package manager, search for it in Ubuntu's documentation and forums. That will at least get you started. I also chose the ones below because they help make certain use cases on new users a little friendlier. Sometimes if you don't find what you're looking for regarding your distribution you are using when you do a search it's sometimes as easy as swapping the distribution's name with Ubuntu to get relevant information.
 
 #### Ubuntu/Xubuntu/Kubuntu/lubuntu/
+
+Vanilla Ubuntu is a good place for anyone to start. The differences in the above distributions is the desktop environment that they come packaged with. You may want to do a little research on these as some are similar to Windows and Mac giving you, sometimes much needed, familiarity in your new environment. When in doubt of what distribution to choose, Ubuntu is a solid one. It has the added benefit of being backed by Canonical so there's a company behind the distribution.
+
 #### Pop_OS
+
+Pop_OS is a good choice if you've previously used a Mac since it uses Gnome/Cosmic as it's desktop environment. It's very similar to MacOS in a handful of ways. Pop_OS also benefits from being supported by a company via System76 and has lots of documentation specific to it on their website.
+
+Pop_OS is also very good if you happen to have an nvidia graphics card. While Nvidia's drivers can be installed on pretty much any distribution, they are not user friendly to do so. Pop on the other hand has a version of their install ISO that includes these drivers. If you want to take advantage of your Nvidia Graphics card, Pop_OS is a solid option.
+
+One other added benefit of Pop is that it comes preinstalled with a handful of developer applications you would end up installing anyways like git!
+
 #### Zorin OS
+
+Zorin OS is a newer distribution and is raved as a great alternative for people coming from Windows. Zorin may be slightly more resource intesive than some other distributions. It might not be recommended as a first choice for running Linux in a virtual machine.
+
 #### Elementary OS
+
+Elementary OS is a solid recommendation for someone coming from MacOS as it has a lot of similar design elemenets between their desktop environments.
+
 #### Linux Mint
+
+Linux Mint is considered one of the all time best beginner distributions. It's very friendly to pretty much any user making the transition over from another operating system. On its downloads page it includes three different desktop environments that are great for different reasons:
+
+Cinnamon - Windows like
+Mate - MacOS like
+XFCE - Super light weight and great for virtual machines
+
 #### Linux Lite
+
+Linux Lite is a paired down version of linux that doesn't come preinstalled with a bunch of stuff. It's still very user friendly and is a great option if you want to run Linux in a virtual machine.
 
 ### Fedora
 
-### Rolling Release
+Fedora gets its own section. It's basically the community driver version of Red Hat and it is also supported by IBM. Fedora is incredibly user friendly and easy to get up and running. It uses a different package manager than Ubuntu, but you'll learn over time that swapping package managers is not a massive undertaking. Once you know one, it's about learning the minutia of another.
 
-### AUR Repository
+Since Fedora is based off of a major distribution like Ubuntu and its derivatives, you'll also find a large community and tons of documentation for Fedora.
 
-#### Manjaro
+### Manjaro
 
+Manjaro is another release that is good for new users. It is very different than Fedora and the Ubuntu based distributions. First off it's package manager is from Arch Linux, which is much more "bleeding edge" as those repositories are sometimes pulling directly from git repositories themselves.
 
+Another thing to know about Manjaro is that it also has some really good support and a thriving community. While Arch is usually considered unfriendly to new users Manjaro helps out with this by giving lots of gui based options to make your changes.
