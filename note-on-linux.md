@@ -17,7 +17,7 @@ What you will also notice looking at the timeline is that most distributions com
 
 There is a particular reason that I pull out these distributions as the main focus as they are the distributions I have focused my knowledge on the most as someone learning more about the Linux environment. Ubuntu is a derivative of Debian, which has been around for some time and many modern day versions of Linux are forked from it and Ubuntu. The suggestions below are actually all forks of Ubuntu to my knowledge.
 
-This gives a major benefit because it means that they share many systems and therefore share documentation. If you have an issue about the apt package manager, search for it in Ubuntu's documentation and forums. That will at least get you started. I also chose the ones below because they help make certain use cases on new users a little friendlier. Sometimes if you don't find what you're looking for regarding your distribution you are using when you do a search it's sometimes as easy as swapping the distribution's name with Ubuntu to get relevant information.
+This gives a major benefit because it means that they share many systems and therefore share documentation. If you have an issue you can search for it in Ubuntu's documentation and forums. That will at least get you started. I also chose the ones below because they help make certain use cases on new users a little friendlier. Having a friendlier setup on the basics can help you not waste time on getting to simply know your desktop environment or how to find things in a settings menu. It's also nice not having to deal with having to install certain drivers if you need them. While the Linux kernel is generally the brain and heart of hardware to software management with many drivers in them, Linux does still have some proprietary drivers in its ecosystem that require installing. Some distros are okay with just doing this for you.
 
 #### Ubuntu/Xubuntu/Kubuntu/lubuntu/
 
@@ -50,15 +50,3 @@ XFCE - Super light weight and great for virtual machines
 #### Linux Lite
 
 Linux Lite is a paired down version of linux that doesn't come preinstalled with a bunch of stuff. It's still very user friendly and is a great option if you want to run Linux in a virtual machine.
-
-### Fedora
-
-Fedora gets its own section. It's basically the community driver version of Red Hat and it is also supported by IBM. Fedora is incredibly user friendly and easy to get up and running. It uses a different package manager than Ubuntu, but you'll learn over time that swapping package managers is not a massive undertaking. Once you know one, it's about learning the minutia of another.
-
-Since Fedora is based off of a major distribution like Ubuntu and its derivatives, you'll also find a large community and tons of documentation for Fedora.
-
-### Manjaro
-
-Manjaro is another release that is good for new users. It is very different than Fedora and the Ubuntu based distributions. First off it's package manager is from Arch Linux, which is much more "bleeding edge" as those repositories are sometimes pulling directly from git repositories themselves.
-
-Another thing to know about Manjaro is that it also has some really good support and a thriving community. While Arch is usually considered unfriendly to new users Manjaro helps out with this by giving lots of gui based options to make your changes.
